@@ -16,4 +16,4 @@ document.querySelectorAll('nav a').forEach(anchor => {
       target.scrollIntoView({ behavior: 'smooth' });
     });
   });
-   
+  
